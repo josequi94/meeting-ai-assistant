@@ -1,3 +1,13 @@
-Erica: "I wanted to quickly touch base about our KPIs and how we can tighten things up this quarter" Unknown: "We hit about 85% of our qualified lead target. Our conversion rate held at 12%, an average steel size dropped to about 18K, which is down from 22K"
+Overview:
+Jose and Erica discuss their previous quarter's performance, identifying areas for improvement in lead quality, conversion rates, and deal sizes. They plan to implement strategies to address these issues and track progress weekly.
 
-Erica, I like the checklist idea. Maybe we can test it on the early pipe. Let's do a 15-minute sync every Thursday morning to share quick updates and blockers. By the way, I want updated materials on value added to the new integrations.
+Key Points:
+- Identified areas for improvement: lead quality, conversion rates, deal sizes
+- Strategies proposed: tightening audience filters, running tighter discovery, positioning bundle solutions earlier
+- Action items: testing checklist on early pipeline deals, retargeting last quarter's stall deals, tracking pilot metrics in Salesforce, scheduling weekly sync meetings
+
+Next Steps:
+- Test the checklist on early pipeline deals and compare notes
+- Retarget last quarter's stall deals with limited-time offers or new use case angles
+- Track pilot metrics in Salesforce under "Q2 Reengaged"
+- Schedule a 15-minute sync every Thursday morning for quick updates and blockers

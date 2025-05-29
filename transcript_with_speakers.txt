@@ -1,5 +1,13 @@
-Unknown:  Hey Erica, thanks for hopping on. I wanted to quickly touch base about our KPIs and how we can tighten things up this quarter. Hey Jose, sure. I've been meaning to talk through that too. Where are we standing? So looking at last quarter, we hit about 85% of our qualified lead target. Our conversion rate held at 12%, an average steel size dropped to about 18K, which is down from 22K. Not a terrible quarter, but definitely room to push higher.
-SPEAKER_00:  Yeah, I noticed the smaller deal sizes too, especially in our mid-market accounts. Right? So here's what I'm thinking. One, lead quality. Marketing is tidying audience filters for campaigns. We should start seeing better fit leads
-SPEAKER_01:  and I'll track that week over week. Two, conversion rates. Let's run tighter discovery. I've drafted a checklist we can try that focuses more on budget and urgency in the first call. Three, deal size. We can start positioning bundle solutions earlier. I'll coordinate with product to get updated materials on value added to the new integrations. I like the checklist idea. Maybe we can test it on the early pipe,
-SPEAKER_00:  Really piped up pipeline deals this week and compare notes. Perfect. Also, I'll put a list of last quarter stall deals. We can retarget those with a limited time offer or a new use case angle.
-SPEAKER_00:  Yeah, that works. Do you want me to track any pilot metrics and sales force for those two? Yes, please. Just tag them as Q2 Rearranged, or sorry, Reengaged, and I'll include them in the weekly tracker. And speaking of that, let's do a 15-minute sync every Thursday morning to share quick updates and blockers. Sounds good. I'll block time now. Let's turn those numbers around. Let's do it. Appreciate you, Erica. Talk Thursday. By the way, I want
+Unknown: Hey Erica, thanks for hopping on. I wanted to quickly touch base about our KPIs and how we can tighten things up this quarter. 
+
+Hey Jose, sure. I've been meaning to talk through that too. Where are we standing? 
+
+So looking at last quarter, we hit about 85% of our qualified lead target. Our conversion rate held at 12% and average deal size dropped to about 18k, which is down from 22k. Not a terrible quarter, but definitely room to push higher.
+SPEAKER_01: Yeah, I noticed the smaller deal sizes too, especially in our mid-market accounts. Right? So here's what I'm thinking.
+SPEAKER_00: One: Lead quality. Marketing is tidying audience filters for campaigns. We should start seeing better fit leads, and I'll track that week over week. 
+
+Two: Conversion rates. Let's run tighter discovery. I've drafted a checklist we can try that focuses more on budget and urgency in the first call. 
+
+Three: Deal size. We can start positioning bundle solutions earlier. I'll coordinate with product to get updated materials on value added to the new integrations.
+SPEAKER_01: I like the checklist idea. Maybe we can test it on the early pipeline deals this week and compare notes. Perfect! Also, I'll put a list of last quarter stall deals. We can retarget those with a limited time offer or a new use case angle.
+SPEAKER_01: Yeah, that works. Do you want me to track any pilot metrics in Salesforce for those two? Yes, please. Just tag them as Q2 re-arranged, or sorry, re-engaged, and I'll include them in the weekly tracker. And speaking of that, let's do a 15-minute sync every Thursday morning to share quick updates and blockers. Sounds good. I'll block time now. Let's turn those numbers around. Let's do it. Appreciate you, Erica. Talk Thursday. By the way,
